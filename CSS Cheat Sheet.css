@@ -1,0 +1,18 @@
+table,
+td,
+th,
+tr {
+  border: 1px solid black;
+  color: Black;
+}
+html {
+  font-family: rockwell;
+  text-align: center;
+  background-image: url("http://www.attachmax.com/p/2018/12/italian-menu-backgrounds-printables-and-menu-within-italian-menu-backgrounds-600x600.jpg");
+}
+.title {
+  font-family: Verdana
+}
+.declaration {
+  font-family:"Lucida Console"
+}
